@@ -14,7 +14,7 @@ Make sure to save the CSV as UTF-8 to preserve the encoded non-English character
 
 ```
 git add *
-git commit -am "updated idrh-talks-index and changed path in index.html"
+git commit -m "updated idrh-talks-index" .
 ```
 
 4. Push the changes to the gh pages branch on the remote repository 
